@@ -6,5 +6,3 @@ Açık kaynaklı Arduino Uno referans şemasının incelenip geliştirilmesi son
 altium designer ile tasarlanan yeni arduino projemiz 
 
 
-Tasarım dosyalarını paylaştığım GitHub Linki
-GitHub : https://github.com/rotasizzkaptann/Arduino-Project
